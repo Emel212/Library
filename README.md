@@ -1,5 +1,5 @@
 # Description
-Türkçe açıklama için -> [linky](master/TrReadme.md)
+Türkçe açıklama için -> [linky](TrReadme.md)
 
 This is a demo project build with Asp.net Core Web API.
 
