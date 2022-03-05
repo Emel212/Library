@@ -9,7 +9,7 @@ By using the winforms application within the project, recorded books can be quer
 
 ## What you can find in this project:
 * Dependency injection.
-* Asyncronious programming.
+* asynchronous programming
 * Object Orianted Programming.
 
 ## Technologies used:
