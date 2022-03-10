@@ -5,7 +5,7 @@ This is a demo project build with Asp.net Core Web API.
 
 By using the winforms application within the project, recorded books can be queried by book name, author and categories.
 
- General information about book status, for instance, whether it is borrowed or not and if borrowed, information about the member who borrowed the book are retrieved by web API.
+ General information about a book status, for instance, whether the book is borrowed or not and if borrowed, information about the member who borrowed the book are retrieved by web API.
 
 ## What you can find in this project:
 * Dependency injection.
